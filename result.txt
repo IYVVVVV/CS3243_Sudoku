@@ -1,0 +1,413 @@
+===== Sudoku 1 =====
+1.mrv+lcv+fc:   time:0.16755   trial:1759
+2.mrv+dh+fc :   time:1.85820   trial:9746
+3.mrv+fc    :   time:0.10668   trial:1111
+===== Sudoku 2 =====
+1.mrv+lcv+fc:   time:0.94254   trial:9653
+2.mrv+dh+fc :   time:31.85689   trial:144688
+3.mrv+fc    :   time:0.98752   trial:9578
+===== Sudoku 3 =====
+1.mrv+lcv+fc:   time:0.79184   trial:7522
+2.mrv+dh+fc :   time:50.35445   trial:200620
+3.mrv+fc    :   time:2.90216   trial:27949
+===== Sudoku 4 =====
+1.mrv+lcv+fc:   time:0.98094   trial:10294
+2.mrv+dh+fc :   time:2.21187   trial:8971
+3.mrv+fc    :   time:0.06483   trial:665
+===== Sudoku 5 =====
+1.mrv+lcv+fc:   time:0.10372   trial:978
+2.mrv+dh+fc :   time:1.60770   trial:5764
+3.mrv+fc    :   time:5.62407   trial:62104
+===== Sudoku 6 =====
+1.mrv+lcv+fc:   time:0.14268   trial:1357
+2.mrv+dh+fc :   time:1.66933   trial:5691
+3.mrv+fc    :   time:9.30646   trial:69146
+===== Sudoku 7 =====
+1.mrv+lcv+fc:   time:3.35315   trial:21652
+2.mrv+dh+fc :   time:8.95573   trial:31497
+3.mrv+fc    :   time:0.40408   trial:4255
+===== Sudoku 8 =====
+1.mrv+lcv+fc:   time:0.38299   trial:4292
+2.mrv+dh+fc :   time:7.34580   trial:30675
+3.mrv+fc    :   time:0.20442   trial:2213
+===== Sudoku 9 =====
+1.mrv+lcv+fc:   time:0.79489   trial:8245
+2.mrv+dh+fc :   time:3.14472   trial:12415
+3.mrv+fc    :   time:1.53753   trial:16913
+===== Sudoku 10 =====
+1.mrv+lcv+fc:   time:0.24834   trial:2311
+2.mrv+dh+fc :   time:6.28577   trial:24473
+3.mrv+fc    :   time:0.12824   trial:1248
+===== Sudoku 11 =====
+1.mrv+lcv+fc:   time:0.11971   trial:1122
+2.mrv+dh+fc :   time:0.57101   trial:2187
+3.mrv+fc    :   time:0.12667   trial:1209
+===== Sudoku 12 =====
+1.mrv+lcv+fc:   time:1.93071   trial:19808
+2.mrv+dh+fc :   time:23.50888   trial:84797
+3.mrv+fc    :   time:1.47261   trial:15863
+===== Sudoku 13 =====
+1.mrv+lcv+fc:   time:0.22639   trial:2289
+2.mrv+dh+fc :   time:0.22344   trial:834
+3.mrv+fc    :   time:0.16951   trial:1849
+===== Sudoku 14 =====
+1.mrv+lcv+fc:   time:0.32716   trial:3472
+2.mrv+dh+fc :   time:3.88471   trial:15540
+3.mrv+fc    :   time:1.61775   trial:18342
+===== Sudoku 15 =====
+1.mrv+lcv+fc:   time:2.28203   trial:22556
+2.mrv+dh+fc :   time:7.05986   trial:27752
+3.mrv+fc    :   time:2.32437   trial:21817
+===== Sudoku 16 =====
+1.mrv+lcv+fc:   time:1.60267   trial:15059
+2.mrv+dh+fc :   time:29.49800   trial:100184
+3.mrv+fc    :   time:0.06682   trial:689
+===== Sudoku 17 =====
+1.mrv+lcv+fc:   time:0.05785   trial:583
+2.mrv+dh+fc :   time:1.58190   trial:7682
+3.mrv+fc    :   time:0.14162   trial:1467
+===== Sudoku 18 =====
+1.mrv+lcv+fc:   time:1.47848   trial:15528
+2.mrv+dh+fc :   time:1.10185   trial:4957
+3.mrv+fc    :   time:0.30718   trial:3159
+===== Sudoku 19 =====
+1.mrv+lcv+fc:   time:0.06137   trial:613
+2.mrv+dh+fc :   time:1.64332   trial:8029
+3.mrv+fc    :   time:0.31618   trial:3064
+===== Sudoku 20 =====
+1.mrv+lcv+fc:   time:0.05585   trial:507
+2.mrv+dh+fc :   time:2.89737   trial:12364
+3.mrv+fc    :   time:0.08078   trial:762
+===== Sudoku 21 =====
+1.mrv+lcv+fc:   time:4.14334   trial:41001
+2.mrv+dh+fc :   time:38.80809   trial:136747
+3.mrv+fc    :   time:3.47049   trial:34943
+===== Sudoku 22 =====
+1.mrv+lcv+fc:   time:0.14461   trial:1292
+2.mrv+dh+fc :   time:2.77320   trial:11879
+3.mrv+fc    :   time:0.08178   trial:899
+===== Sudoku 23 =====
+1.mrv+lcv+fc:   time:4.09864   trial:42062
+2.mrv+dh+fc :   time:0.02892   trial:154
+3.mrv+fc    :   time:2.72040   trial:28397
+===== Sudoku 24 =====
+1.mrv+lcv+fc:   time:2.97006   trial:24628
+2.mrv+dh+fc :   time:5.55632   trial:18567
+3.mrv+fc    :   time:5.78698   trial:59805
+===== Sudoku 25 =====
+1.mrv+lcv+fc:   time:0.51762   trial:4623
+2.mrv+dh+fc :   time:0.20200   trial:636
+3.mrv+fc    :   time:0.70812   trial:7697
+===== Sudoku 26 =====
+1.mrv+lcv+fc:   time:0.17752   trial:1930
+2.mrv+dh+fc :   time:2.50063   trial:10596
+3.mrv+fc    :   time:0.04289   trial:314
+===== Sudoku 27 =====
+1.mrv+lcv+fc:   time:0.25232   trial:1783
+2.mrv+dh+fc :   time:3.41780   trial:14934
+3.mrv+fc    :   time:0.06481   trial:550
+===== Sudoku 28 =====
+1.mrv+lcv+fc:   time:0.25133   trial:2230
+2.mrv+dh+fc :   time:2.22517   trial:10295
+3.mrv+fc    :   time:0.03889   trial:367
+===== Sudoku 29 =====
+1.mrv+lcv+fc:   time:0.77901   trial:7987
+2.mrv+dh+fc :   time:2.04319   trial:6373
+3.mrv+fc    :   time:0.75991   trial:7747
+===== Sudoku 30 =====
+1.mrv+lcv+fc:   time:0.26629   trial:2815
+2.mrv+dh+fc :   time:0.30373   trial:1319
+3.mrv+fc    :   time:0.10078   trial:1268
+===== Sudoku 31 =====
+1.mrv+lcv+fc:   time:0.11469   trial:1108
+2.mrv+dh+fc :   time:2.82604   trial:11913
+3.mrv+fc    :   time:0.08178   trial:796
+===== Sudoku 32 =====
+1.mrv+lcv+fc:   time:1.83784   trial:19092
+2.mrv+dh+fc :   time:2.69391   trial:7433
+3.mrv+fc    :   time:0.99245   trial:10539
+===== Sudoku 33 =====
+1.mrv+lcv+fc:   time:1.16361   trial:10502
+2.mrv+dh+fc :   time:15.61564   trial:48165
+3.mrv+fc    :   time:1.05803   trial:9886
+===== Sudoku 34 =====
+1.mrv+lcv+fc:   time:0.44980   trial:5009
+2.mrv+dh+fc :   time:0.71708   trial:2436
+3.mrv+fc    :   time:0.18108   trial:2148
+===== Sudoku 35 =====
+1.mrv+lcv+fc:   time:0.22438   trial:2287
+2.mrv+dh+fc :   time:2.30662   trial:7197
+3.mrv+fc    :   time:0.30415   trial:3058
+===== Sudoku 36 =====
+1.mrv+lcv+fc:   time:0.83776   trial:8167
+2.mrv+dh+fc :   time:27.36254   trial:104123
+3.mrv+fc    :   time:0.29421   trial:3031
+===== Sudoku 37 =====
+1.mrv+lcv+fc:   time:0.57746   trial:5922
+2.mrv+dh+fc :   time:1.15795   trial:4937
+3.mrv+fc    :   time:0.26232   trial:2747
+===== Sudoku 38 =====
+1.mrv+lcv+fc:   time:0.43936   trial:4511
+2.mrv+dh+fc :   time:1.86102   trial:7097
+3.mrv+fc    :   time:0.45292   trial:4815
+===== Sudoku 39 =====
+1.mrv+lcv+fc:   time:1.76531   trial:19601
+2.mrv+dh+fc :   time:4.46652   trial:17917
+3.mrv+fc    :   time:1.63767   trial:19549
+===== Sudoku 40 =====
+1.mrv+lcv+fc:   time:0.48766   trial:5313
+2.mrv+dh+fc :   time:1.93518   trial:8803
+3.mrv+fc    :   time:0.31313   trial:3774
+===== Sudoku 41 =====
+1.mrv+lcv+fc:   time:0.23238   trial:2141
+2.mrv+dh+fc :   time:0.24538   trial:1077
+3.mrv+fc    :   time:1.17361   trial:11237
+===== Sudoku 42 =====
+1.mrv+lcv+fc:   time:0.95345   trial:8766
+2.mrv+dh+fc :   time:0.74700   trial:2530
+3.mrv+fc    :   time:0.10572   trial:958
+===== Sudoku 43 =====
+1.mrv+lcv+fc:   time:0.35306   trial:3548
+2.mrv+dh+fc :   time:3.99592   trial:15107
+3.mrv+fc    :   time:0.57842   trial:6372
+===== Sudoku 44 =====
+1.mrv+lcv+fc:   time:8.42219   trial:83787
+2.mrv+dh+fc :   time:0.55853   trial:2230
+3.mrv+fc    :   time:0.85671   trial:9562
+===== Sudoku 45 =====
+1.mrv+lcv+fc:   time:9.41794   trial:93025
+2.mrv+dh+fc :   time:6.79236   trial:19346
+3.mrv+fc    :   time:0.71012   trial:5138
+===== Sudoku 46 =====
+1.mrv+lcv+fc:   time:2.60738   trial:19196
+2.mrv+dh+fc :   time:0.45079   trial:1373
+3.mrv+fc    :   time:1.99430   trial:20223
+===== Sudoku 47 =====
+1.mrv+lcv+fc:   time:14.34297   trial:139361
+2.mrv+dh+fc :   time:12.76630   trial:54286
+3.mrv+fc    :   time:3.89980   trial:41314
+===== Sudoku 48 =====
+1.mrv+lcv+fc:   time:0.10273   trial:997
+2.mrv+dh+fc :   time:3.64953   trial:13615
+3.mrv+fc    :   time:1.01643   trial:9728
+===== Sudoku 49 =====
+1.mrv+lcv+fc:   time:0.18554   trial:1751
+2.mrv+dh+fc :   time:0.81877   trial:2730
+3.mrv+fc    :   time:0.12869   trial:1438
+===== Sudoku 50 =====
+1.mrv+lcv+fc:   time:0.41688   trial:4070
+2.mrv+dh+fc :   time:2.64332   trial:11210
+3.mrv+fc    :   time:0.12869   trial:1346
+===== Sudoku 51 =====
+1.mrv+lcv+fc:   time:0.45874   trial:4775
+2.mrv+dh+fc :   time:1.68075   trial:7535
+3.mrv+fc    :   time:0.32014   trial:3660
+===== Sudoku 52 =====
+1.mrv+lcv+fc:   time:0.41988   trial:3329
+2.mrv+dh+fc :   time:3.48931   trial:13737
+3.mrv+fc    :   time:0.37200   trial:3226
+===== Sudoku 53 =====
+1.mrv+lcv+fc:   time:0.47673   trial:4574
+2.mrv+dh+fc :   time:2.65365   trial:11293
+3.mrv+fc    :   time:0.14860   trial:1663
+===== Sudoku 54 =====
+1.mrv+lcv+fc:   time:1.45910   trial:13544
+2.mrv+dh+fc :   time:3.52364   trial:13501
+3.mrv+fc    :   time:0.37503   trial:3131
+===== Sudoku 55 =====
+1.mrv+lcv+fc:   time:9.15323   trial:90637
+2.mrv+dh+fc :   time:14.39411   trial:55492
+3.mrv+fc    :   time:1.54020   trial:15318
+===== Sudoku 56 =====
+1.mrv+lcv+fc:   time:1.23173   trial:11863
+2.mrv+dh+fc :   time:4.16368   trial:14612
+3.mrv+fc    :   time:1.15690   trial:11731
+===== Sudoku 57 =====
+1.mrv+lcv+fc:   time:6.63476   trial:68209
+2.mrv+dh+fc :   time:0.75222   trial:3188
+3.mrv+fc    :   time:5.01525   trial:52764
+===== Sudoku 58 =====
+1.mrv+lcv+fc:   time:0.63132   trial:5967
+2.mrv+dh+fc :   time:0.49970   trial:2363
+3.mrv+fc    :   time:0.56650   trial:5656
+===== Sudoku 59 =====
+1.mrv+lcv+fc:   time:0.06782   trial:635
+2.mrv+dh+fc :   time:3.63286   trial:15746
+3.mrv+fc    :   time:0.74301   trial:2822
+===== Sudoku 60 =====
+1.mrv+lcv+fc:   time:0.62333   trial:2275
+2.mrv+dh+fc :   time:1.81514   trial:2530
+3.mrv+fc    :   time:2.50064   trial:10059
+===== Sudoku 61 =====
+1.mrv+lcv+fc:   time:2.88932   trial:15769
+2.mrv+dh+fc :   time:10.02842   trial:28626
+3.mrv+fc    :   time:1.42533   trial:15638
+===== Sudoku 62 =====
+1.mrv+lcv+fc:   time:0.96365   trial:10463
+2.mrv+dh+fc :   time:0.82081   trial:2279
+3.mrv+fc    :   time:0.01795   trial:152
+===== Sudoku 63 =====
+1.mrv+lcv+fc:   time:1.03676   trial:9358
+2.mrv+dh+fc :   time:0.29623   trial:1280
+3.mrv+fc    :   time:0.74803   trial:8293
+===== Sudoku 64 =====
+1.mrv+lcv+fc:   time:5.71248   trial:57690
+2.mrv+dh+fc :   time:28.12724   trial:99027
+3.mrv+fc    :   time:1.22934   trial:13061
+===== Sudoku 65 =====
+1.mrv+lcv+fc:   time:0.79441   trial:6924
+2.mrv+dh+fc :   time:2.61188   trial:11767
+3.mrv+fc    :   time:0.68825   trial:6102
+===== Sudoku 66 =====
+1.mrv+lcv+fc:   time:0.64735   trial:6717
+2.mrv+dh+fc :   time:13.10338   trial:47575
+3.mrv+fc    :   time:1.26569   trial:12439
+===== Sudoku 67 =====
+1.mrv+lcv+fc:   time:1.17869   trial:11140
+2.mrv+dh+fc :   time:4.59940   trial:16916
+3.mrv+fc    :   time:1.08235   trial:11873
+===== Sudoku 68 =====
+1.mrv+lcv+fc:   time:0.05985   trial:529
+2.mrv+dh+fc :   time:1.58432   trial:6776
+3.mrv+fc    :   time:0.11174   trial:939
+===== Sudoku 69 =====
+1.mrv+lcv+fc:   time:1.12351   trial:10680
+2.mrv+dh+fc :   time:0.51415   trial:1770
+3.mrv+fc    :   time:1.00489   trial:10762
+===== Sudoku 70 =====
+1.mrv+lcv+fc:   time:0.06084   trial:553
+2.mrv+dh+fc :   time:1.61142   trial:6946
+3.mrv+fc    :   time:0.18048   trial:1675
+===== Sudoku 71 =====
+1.mrv+lcv+fc:   time:0.60059   trial:6864
+2.mrv+dh+fc :   time:4.55393   trial:16312
+3.mrv+fc    :   time:0.51927   trial:6183
+===== Sudoku 72 =====
+1.mrv+lcv+fc:   time:0.40890   trial:3597
+2.mrv+dh+fc :   time:5.10703   trial:20044
+3.mrv+fc    :   time:1.21040   trial:11761
+===== Sudoku 73 =====
+1.mrv+lcv+fc:   time:0.51758   trial:5555
+2.mrv+dh+fc :   time:11.20249   trial:35735
+3.mrv+fc    :   time:5.15961   trial:52212
+===== Sudoku 74 =====
+1.mrv+lcv+fc:   time:8.92863   trial:86736
+2.mrv+dh+fc :   time:40.73073   trial:146649
+3.mrv+fc    :   time:5.85710   trial:60035
+===== Sudoku 75 =====
+1.mrv+lcv+fc:   time:5.27204   trial:49871
+2.mrv+dh+fc :   time:0.64830   trial:2796
+3.mrv+fc    :   time:0.43737   trial:4030
+===== Sudoku 76 =====
+1.mrv+lcv+fc:   time:1.43279   trial:13962
+2.mrv+dh+fc :   time:2.35702   trial:9861
+3.mrv+fc    :   time:0.01297   trial:112
+===== Sudoku 77 =====
+1.mrv+lcv+fc:   time:0.13467   trial:1381
+2.mrv+dh+fc :   time:0.54351   trial:2546
+3.mrv+fc    :   time:0.13265   trial:1592
+===== Sudoku 78 =====
+1.mrv+lcv+fc:   time:0.57752   trial:5507
+2.mrv+dh+fc :   time:0.40591   trial:1713
+3.mrv+fc    :   time:1.26243   trial:12373
+===== Sudoku 79 =====
+1.mrv+lcv+fc:   time:2.70289   trial:25591
+2.mrv+dh+fc :   time:5.33211   trial:16930
+3.mrv+fc    :   time:6.86684   trial:49475
+===== Sudoku 80 =====
+1.mrv+lcv+fc:   time:1.86403   trial:12757
+2.mrv+dh+fc :   time:7.13418   trial:26302
+3.mrv+fc    :   time:2.35589   trial:22256
+===== Sudoku 81 =====
+1.mrv+lcv+fc:   time:0.80485   trial:6686
+2.mrv+dh+fc :   time:17.18432   trial:62865
+3.mrv+fc    :   time:1.23310   trial:8464
+===== Sudoku 82 =====
+1.mrv+lcv+fc:   time:1.31206   trial:8176
+2.mrv+dh+fc :   time:5.22443   trial:22457
+3.mrv+fc    :   time:0.81586   trial:7798
+===== Sudoku 83 =====
+1.mrv+lcv+fc:   time:6.70391   trial:67083
+2.mrv+dh+fc :   time:4.44067   trial:16168
+3.mrv+fc    :   time:0.51520   trial:5050
+===== Sudoku 84 =====
+1.mrv+lcv+fc:   time:0.99046   trial:9232
+2.mrv+dh+fc :   time:5.00888   trial:17545
+3.mrv+fc    :   time:2.24468   trial:21151
+===== Sudoku 85 =====
+1.mrv+lcv+fc:   time:1.56641   trial:16211
+2.mrv+dh+fc :   time:8.69550   trial:35523
+3.mrv+fc    :   time:0.26831   trial:3381
+===== Sudoku 86 =====
+1.mrv+lcv+fc:   time:7.16314   trial:70707
+2.mrv+dh+fc :   time:39.97087   trial:151819
+3.mrv+fc    :   time:4.36288   trial:43286
+===== Sudoku 87 =====
+1.mrv+lcv+fc:   time:0.02497   trial:232
+2.mrv+dh+fc :   time:1.01302   trial:3759
+3.mrv+fc    :   time:0.03491   trial:247
+===== Sudoku 88 =====
+1.mrv+lcv+fc:   time:0.29720   trial:2843
+2.mrv+dh+fc :   time:3.09004   trial:11276
+3.mrv+fc    :   time:0.21343   trial:2145
+===== Sudoku 89 =====
+1.mrv+lcv+fc:   time:0.00798   trial:60
+2.mrv+dh+fc :   time:0.36206   trial:1557
+3.mrv+fc    :   time:0.66519   trial:6780
+===== Sudoku 90 =====
+1.mrv+lcv+fc:   time:0.58943   trial:5475
+2.mrv+dh+fc :   time:1.00939   trial:3336
+3.mrv+fc    :   time:0.66522   trial:6188
+===== Sudoku 91 =====
+1.mrv+lcv+fc:   time:1.73763   trial:18068
+2.mrv+dh+fc :   time:2.53607   trial:10518
+3.mrv+fc    :   time:1.57730   trial:18139
+===== Sudoku 92 =====
+1.mrv+lcv+fc:   time:0.05286   trial:546
+2.mrv+dh+fc :   time:3.47882   trial:12514
+3.mrv+fc    :   time:0.27726   trial:2837
+===== Sudoku 93 =====
+1.mrv+lcv+fc:   time:0.24830   trial:2902
+2.mrv+dh+fc :   time:3.18165   trial:13364
+3.mrv+fc    :   time:0.05785   trial:562
+===== Sudoku 94 =====
+1.mrv+lcv+fc:   time:0.82479   trial:9300
+2.mrv+dh+fc :   time:0.35007   trial:1738
+3.mrv+fc    :   time:1.98473   trial:21847
+===== Sudoku 95 =====
+1.mrv+lcv+fc:   time:0.52870   trial:5268
+2.mrv+dh+fc :   time:5.62216   trial:21466
+3.mrv+fc    :   time:1.34041   trial:13687
+===== Sudoku 96 =====
+1.mrv+lcv+fc:   time:0.45781   trial:4077
+2.mrv+dh+fc :   time:0.95644   trial:3711
+3.mrv+fc    :   time:1.08908   trial:9867
+===== Sudoku 97 =====
+1.mrv+lcv+fc:   time:0.20941   trial:2190
+2.mrv+dh+fc :   time:8.65770   trial:30935
+3.mrv+fc    :   time:3.53713   trial:35015
+===== Sudoku 98 =====
+1.mrv+lcv+fc:   time:0.34408   trial:2740
+2.mrv+dh+fc :   time:4.18657   trial:16588
+3.mrv+fc    :   time:0.32912   trial:2773
+===== Sudoku 99 =====
+1.mrv+lcv+fc:   time:0.03391   trial:364
+2.mrv+dh+fc :   time:0.30721   trial:1168
+3.mrv+fc    :   time:0.38494   trial:3670
+===== Sudoku 100 =====
+1.mrv+lcv+fc:   time:0.43355   trial:4618
+2.mrv+dh+fc :   time:1.75839   trial:6930
+3.mrv+fc    :   time:0.31535   trial:3533
+===== Final Result =====
+===> Total number of failed puzzle:
+1.mrv+lcv+fc: 0
+2.mrv+dh+fc : 0
+3.mrv+fc    : 0
+===> Average solving time:
+1.mrv+lcv+fc: 1.56979
+2.mrv+dh+fc : 6.33682
+3.mrv+fc    : 1.24054
+===> Average number of trials:
+1.mrv+lcv+fc: 15023.35000
+2.mrv+dh+fc : 23809.75000
+3.mrv+fc     : 12004.62000
