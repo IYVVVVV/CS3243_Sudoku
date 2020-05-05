@@ -6,7 +6,7 @@ import mrv_fc as Case3
 
 link = "http://magictour.free.fr/top1465"
 f = urlopen(link)
-n = 2 # change number of test cases here, max = 1465
+n = 100 # change number of test cases here, max = 1465
 
 avg_time_1 = 0
 avg_time_2 = 0
@@ -61,7 +61,7 @@ for id in range(1, n + 1):
     try:
         ans2 = sudoku2.solve()
     except:
-        num_fail_2 += 2
+        num_fail_2 += 1
         solved2 = False
     finally:
         if solved2:
@@ -81,7 +81,7 @@ for id in range(1, n + 1):
     try:
         ans3 = sudoku3.solve()
     except:
-        num_fail_3 += 3
+        num_fail_3 += 1
         solved3 = False
     finally:
         if solved3:
