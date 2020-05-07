@@ -1,0 +1,14 @@
+.idea/CS3243_Sudoku.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/workspace.xml
+.idea/libraries/R_User_Library.xml
+__pycache__/dh_fc.cpython-36.pyc
+__pycache__/dh_lcv_fc.cpython-36.pyc
+__pycache__/fc.cpython-36.pyc
+__pycache__/lcv_fc.cpython-36.pyc
+__pycache__/mcv_dh_fc.cpython-36.pyc
+__pycache__/mcv_dh_lcv_fc.cpython-36.pyc
+__pycache__/mcv_fc.cpython-36.pyc
+__pycache__/mcv_lcv_fc.cpython-36.pyc

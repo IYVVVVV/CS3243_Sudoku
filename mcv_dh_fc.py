@@ -102,7 +102,7 @@ class Sudoku(object):
                 affected_pos.append(pos)
         return affected_pos
 
-    # Get a list of affected position
+    # Get the number of affected position
     def get_no_affected(self, domains, changed_pos):
         no_affected = 0
         for pos in domains.keys():
@@ -110,7 +110,7 @@ class Sudoku(object):
                 no_affected += 1
         return no_affected
 
-    # Gets the next position according to most constrained variable heuristic
+    # Gets the next position according to most constrained variable and degree heuristic
     # Can attempt to add more variable heuristics here
     def get_next_var(self, empty_grids, ans, domains):
         size_of_domain = 10
@@ -232,10 +232,7 @@ if __name__ == "__main__":
                     j = 0
 
     sudoku = Sudoku(puzzle)
-    timeStart = time.time()
     ans = sudoku.solve()
-    print("Time:", time.time() - timeStart)
-    print("Number of tries:", sudoku.number_of_tries)
 
     with open(sys.argv[2], 'a') as f:
         for i in range(9):
